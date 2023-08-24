@@ -37,6 +37,18 @@ function validate() {
         },
         '61163773': function () {
             //JuanRengifo
+        },
+        '72268378': function () {
+            //BRENNIS CASTRO
+        },
+        '77387314': function () {
+            //Andy Peñaloza
+        },
+        '75081930': function () {
+            //Diego Checya
+        },
+        '71789677': function () {
+            //Davis Lopez
         }
     }
 
